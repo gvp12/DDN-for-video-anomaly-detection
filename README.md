@@ -5,5 +5,5 @@ Videos captured are mostly non-stationary in nature. To handle such non-stationa
 Anomalies detected in video frames from the different datasets:
 
 |vehicle|sudden running|skipping|skating on pedestrian road|
-|-|-|
-|![](images/127.pdf)|![](images/umn2.png)|![](images/avenue1.png)|![](images/shanghaitech2.png)|
+|-|-|-|-|
+|![](images/127.png)|![](images/umn2.png)|![](images/avenue1.png)|![](images/shanghaitech2.png)|
